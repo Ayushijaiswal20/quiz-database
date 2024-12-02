@@ -1,1 +1,1 @@
-<h1><b> it is an example of creating pyhton quiz using database for beginners</b></h1>
+<h1><b> It is an example of creating python quiz using database for beginners</b></h1>
